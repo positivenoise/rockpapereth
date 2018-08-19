@@ -1,0 +1,28 @@
+{
+  "name": "rockpapereth",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors game built on Ethereum.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0",
+    "truffle-hdwallet-provider": "0.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://positivenoise@bitbucket.org/positivenoise/rockpapereth.git"
+  },
+  "keywords": [],
+  "homepage": "https://bitbucket.org/positivenoise/rockpapereth#readme"
+}
